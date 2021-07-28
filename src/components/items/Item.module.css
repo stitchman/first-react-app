@@ -1,0 +1,15 @@
+.item {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.image img {
+  width: 200px;
+  display: block;
+}
+
+.content p {
+  text-align: justify;
+}
